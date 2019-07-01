@@ -1,0 +1,33 @@
+.body1
+{
+
+background-color:blueviolet;
+}
+h1{
+    text-align: center
+}
+.form-control{
+    border-radius: 30% 30%;
+    text-align: center;
+ 
+}
+.forme{
+    position: relative;
+    border: 1px solid brown;
+    text-align: center;
+  right: -25%;
+  width: 50%;
+  background-color: brown;
+  color: aquamarine;
+}
+.form-row{
+    position: relative;
+    left: 25%;
+}
+.btn-primary{
+    border-radius: 25% 25%;
+    width: 50%
+}
+.btn-secondary{
+    border-radius: 35% 35%;
+}
